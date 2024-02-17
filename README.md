@@ -7,6 +7,7 @@ Welcome to my Leet Code repository! Here you will find my solutions for Top 150 
 |Problem|Solution|Difficulty Level|
 |-------|--------|----------------|
 |[Remove Duplicates from Sorted Array I](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[Python](./Array-String%20Problems/remove_duplicates_from_sorted_elements_I.py)|Easy|
+|[Majority Element](https://leetcode.com/problems/majority-element/)|[Python](./Array-String%20Problems/find_majority_elements.py)|Easy|
 
 
 
