@@ -8,9 +8,8 @@ Welcome to my Leet Code repository! Here you will find my solutions for Top 150 
 |-------|--------|----------------|
 |[Remove Duplicates from Sorted Array I](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[Python](./Array-String%20Problems/remove_duplicates_from_sorted_elements_I.py)|Easy|
 |[Majority Element](https://leetcode.com/problems/majority-element/)|[Python](./Array-String%20Problems/find_majority_elements.py)|Easy|
-|[Best Time to Buy and Sell a Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[Python](./Array-String%20Problems/best_time_to_buy_a_stock_I.py)|Easy|
-
-
+|[Best Time to Buy and Sell a Stock I](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[Python](./Array-String%20Problems/best_time_to_buy_a_stock_I.py)|Easy|
+|[Best Time to Buy and Sell a Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|[Python](./Array-String%20Problems/best_time_to_buy_a_stock_II.py)|Medium|
 
 
    
